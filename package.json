@@ -1,0 +1,20 @@
+{
+  "name": "compressible-flow-calculator",
+  "version": "1.0.0",
+  "description": "Interactive calculator for isentropic flow properties of perfect gas with γ = 1.27",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python3 -m http.server 3000",
+    "deploy": "vercel"
+  },
+  "keywords": [
+    "compressible-flow",
+    "isentropic",
+    "aerodynamics",
+    "gas-dynamics",
+    "engineering",
+    "calculator"
+  ],
+  "author": "",
+  "license": "MIT"
+}
